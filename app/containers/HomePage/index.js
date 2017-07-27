@@ -35,7 +35,7 @@ export class HomePage extends React.PureComponent { // eslint-disable-line react
     };
 
     return (
-      <div>Hello sdfsWenow</div>
+      <div>Hello Wenow</div>
       // <article>
       //   <Helmet
       //     title="Home Page"
